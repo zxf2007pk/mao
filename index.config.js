@@ -69,7 +69,7 @@ var index_config_default = {
       {
         "key": "nodejs_douban",
         "name": "🔰豆瓣丨网盘‍",
-        "enable": false
+        "enable": true
       },
       {
         "key": "nodejs_wogg",
@@ -182,11 +182,6 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_jumi",
-        "name": "🔰剧迷丨影视",
-        "enable": false
-      },
-      {
         "key": "nodejs_fengye",
         "name": "🔰枫叶丨影视",
         "enable": true
@@ -222,8 +217,8 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_baihe",
-        "name": "🔰白鹤丨影视",
+        "key": "nodejs_moxiaoying",
+        "name": "🔰小影丨影视",
         "enable": true
       },
       {
