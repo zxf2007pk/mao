@@ -192,11 +192,6 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_ciyuan",
-        "name": "🔰辞源丨影视",
-        "enable": true
-      },
-      {
         "key": "nodejs_jieyingshi",
         "name": "🔰神界丨影视",
         "enable": true
