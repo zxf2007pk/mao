@@ -302,6 +302,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_hddj",
+        "name": "🔰黄豆丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_syjc",
         "name": "🔰夜魅丨影视",
         "enable": true
