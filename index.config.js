@@ -182,6 +182,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_fenglin",
+        "name": "🔰枫林丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_fengye",
         "name": "🔰枫叶丨影视",
         "enable": true
