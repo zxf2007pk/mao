@@ -217,14 +217,14 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_moxiaoying",
-        "name": "🔰小影丨影视",
-        "enable": false
+        "key": "nodejs_luhu",
+        "name": "🔰路虎丨影视",
+        "enable": true
       },
       {
         "key": "nodejs_tangdou",
         "name": "🔰糖豆丨影视",
-        "enable": false
+        "enable": true
       },
       {
         "key": "nodejs_waibi",
