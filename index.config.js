@@ -317,6 +317,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_huangguo",
+        "name": "🔰黄果丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_syjc",
         "name": "🔰夜魅丨影视",
         "enable": true
