@@ -177,11 +177,6 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_qqqys",
-        "name": "🔰秋秋丨影视",
-        "enable": true
-      },
-      {
         "key": "nodejs_fenglin",
         "name": "🔰枫林丨影视",
         "enable": true
@@ -224,11 +219,6 @@ var index_config_default = {
       {
         "key": "nodejs_tangdou",
         "name": "🔰糖豆丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_waibi",
-        "name": "🔰歪毕丨影视",
         "enable": true
       },
       {
