@@ -287,6 +287,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_kuwo",
+        "name": "🔰酷我丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_q16a",
         "name": "🔰音乐丨影视",
         "enable": true
