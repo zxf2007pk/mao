@@ -237,6 +237,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_yinghua",
+        "name": "🔰樱花丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_aiman",
         "name": "🔰日漫丨影视",
         "enable": true
