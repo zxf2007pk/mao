@@ -232,6 +232,31 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_juzong",
+        "name": "🔰剧踪丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_aiman",
+        "name": "🔰日漫丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_lanhai",
+        "name": "🔰蓝海丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_qingcheng",
+        "name": "🔰青橙丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_niuniu",
+        "name": "🔰牛牛丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_appys",
         "name": "🔰美剧丨影视",
         "enable": true
@@ -244,11 +269,6 @@ var index_config_default = {
       {
         "key": "nodejs_douyu",
         "name": "🔰斗鱼丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_sport",
-        "name": "🔰赛事丨影视",
         "enable": true
       },
       {
@@ -354,6 +374,16 @@ var index_config_default = {
       {
         "key": "nodejs_liuri",
         "name": "🔰路意丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_sisi",
+        "name": "🔰斯诗丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_xiongmao",
+        "name": "🔰熊猫丨影视",
         "enable": true
       },
       {
