@@ -207,6 +207,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_qkys",
+        "name": "🔰趣看丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_daquan",
         "name": "🔰大全丨影视",
         "enable": true
@@ -307,11 +312,6 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_kuwo",
-        "name": "🔰酷我丨影视",
-        "enable": true
-      },
-      {
         "key": "nodejs_nmysjh",
         "name": "🔰神马丨影视",
         "enable": true
@@ -319,6 +319,11 @@ var index_config_default = {
       {
         "key": "nodejs_wyy",
         "name": "🔰网易丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_kuwo",
+        "name": "🔰酷我丨影视",
         "enable": true
       },
       {
@@ -472,12 +477,12 @@ var index_config_default = {
       },
       {
         "key": "123",
-        "name": "Pan123",
+        "name": "123",
         "enable": true
       },
       {
         "key": "115",
-        "name": "Pan115",
+        "name": "115",
         "enable": true
       },
       {
