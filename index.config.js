@@ -177,6 +177,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_rebo",
+        "name": "🔰热播丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_fenglin",
         "name": "🔰枫林丨影视",
         "enable": true
@@ -189,6 +194,11 @@ var index_config_default = {
       {
         "key": "nodejs_guazi",
         "name": "🔰瓜子丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_duboku",
+        "name": "🔰独播丨影视",
         "enable": true
       },
       {
@@ -214,6 +224,11 @@ var index_config_default = {
       {
         "key": "nodejs_daquan",
         "name": "🔰大全丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_moxiaoying",
+        "name": "🔰小影丨影视",
         "enable": true
       },
       {
@@ -272,8 +287,18 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_duanju",
+        "name": "🔰短剧丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_appys",
         "name": "🔰美剧丨影视",
+        "enable": false
+      },
+      {
+        "key": "nodejs_yangshi",
+        "name": "🔰央视丨影视",
         "enable": true
       },
       {
@@ -307,6 +332,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_kafei",
+        "name": "🔰赛事丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_kugou",
         "name": "🔰酷狗丨影视",
         "enable": true
@@ -337,21 +367,6 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_xhs",
-        "name": "🔰皇书丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_hddj",
-        "name": "🔰黄豆丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_huangguo",
-        "name": "🔰黄果丨影视",
-        "enable": true
-      },
-      {
         "key": "nodejs_syjc",
         "name": "🔰夜魅丨影视",
         "enable": true
@@ -377,8 +392,18 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_qiqi",
+        "name": "🔰奇奇丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_toupai",
         "name": "🔰偷拍丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_haijiao",
+        "name": "🔰海角丨影视",
         "enable": true
       },
       {
@@ -407,6 +432,16 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_sihu",
+        "name": "🔰四虎丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_huadu",
+        "name": "🔰花都丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_xiongmao",
         "name": "🔰熊猫丨影视",
         "enable": true
@@ -417,8 +452,33 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_vhub",
+        "name": "🔰欧美丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_xhamster",
         "name": "🔰洋马丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_acfan",
+        "name": "🔰皇漫丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_xhs",
+        "name": "🔰皇书丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_hddj",
+        "name": "🔰皇豆丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_huangguo",
+        "name": "🔰皇果丨影视",
         "enable": true
       },
       {
@@ -457,7 +517,7 @@ var index_config_default = {
     list: [
       {
         "key": "uc",
-        "name": "优夕",
+        "name": "优汐",
         "enable": true
       },
       {
@@ -467,7 +527,7 @@ var index_config_default = {
       },
       {
         "key": "tianyi",
-        "name": "天意",
+        "name": "天翼",
         "enable": true
       },
       {
@@ -487,7 +547,7 @@ var index_config_default = {
       },
       {
         "key": "ali",
-        "name": "阿狸",
+        "name": "阿里",
         "enable": true
       }
     ]
