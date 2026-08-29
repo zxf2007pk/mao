@@ -182,16 +182,6 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_k4av",
-        "name": "🔰大肆丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_dyls",
-        "name": "🔰猎手丨影视",
-        "enable": true
-      },
-      {
         "key": "nodejs_hanju",
         "name": "🔰韩剧丨影视",
         "enable": true
@@ -249,6 +239,16 @@ var index_config_default = {
       {
         "key": "nodejs_daquan",
         "name": "🔰大全丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_k4av",
+        "name": "🔰大肆丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_dyls",
+        "name": "🔰猎手丨影视",
         "enable": true
       },
       {
@@ -524,11 +524,6 @@ var index_config_default = {
       {
         "key": "nodejs_hsck",
         "name": "🔰炫酷丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_rou",
-        "name": "🔰鱼肉丨影视",
         "enable": true
       },
       {
