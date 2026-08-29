@@ -177,11 +177,6 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_bili",
-        "name": "🔰哔哩丨影视",
-        "enable": true
-      },
-      {
         "key": "nodejs_pozhan",
         "name": "🔰破绽丨影视",
         "enable": true
