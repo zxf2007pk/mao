@@ -583,7 +583,7 @@ var index_config_default = {
       },
       {
         "key": "nodejs_hubff",
-        "name": "🔰菲菲丨影视",
+        "name": "🔰浩博丨影视",
         "enable": true
       },
       {
