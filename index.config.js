@@ -477,6 +477,41 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_quanse",
+        "name": "🔰权色丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_shaonv",
+        "name": "🔰少女丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_xingba",
+        "name": "🔰杏吧丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_xingyun",
+        "name": "🔰幸运丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_xinren",
+        "name": "🔰新人丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_yidianyuan",
+        "name": "🔰伊甸丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_caoliu",
+        "name": "🔰草榴丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_yese",
         "name": "🔰夜色丨影视",
         "enable": true
@@ -539,6 +574,16 @@ var index_config_default = {
       {
         "key": "nodejs_MissAV",
         "name": "🔰明星丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_fullhd",
+        "name": "🔰赋耳丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_hubff",
+        "name": "🔰菲菲丨影视",
         "enable": true
       },
       {
