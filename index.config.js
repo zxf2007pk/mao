@@ -28,7 +28,7 @@ var index_config_default = {
     token280: "token280"
   },
   quark: {
-    cookie: "cookie",
+    cookie: "_UP_28A_52_=532;_UP_BT_=;_UP_F7E_8D_=i74i77uRTzvBGir6eD%2BMUHIAeULkIP4yf8VYOo0rrX2Qk6q1Ivq3n%2FKKRyTLFEr81ezn46oavKWIbELvsKV6N7Qey3LIThbBZYYBSlEw%2FhFvnlMM%2FoU51YjKLHiThZj4jaLLO9AVQUwLNou9CehuHWlMWS1rXVfbZXRHxH%2Fc5ejTk%2FYYBSlxZ2dk3A9f%2FCMRjplx33TgMfDpV4OIH2rmX0VF6jsQF6Mjmqrw6wQ3U%2BaCJIyjA0ZNf5374lZM0%2F96gicLGXWDULSzVjEvMmznaVZ2giTX2e9Z%2FK0%2FzVwkrF%2B%2FUZ%2FAFOtHRtL8Ea33V8aFkzDJm84ptT%2FxmRuCsa%2BbDGrOK%2BW7NepAeuYdTBrH19WVzMQZ1GracmRKLnouDIOtemzJh0ZgDQXgKP%2Be2vzS%2BRRNxrkTQuotwES3hQ3qMNg%3D;_UP_6D1_64_=069;_UP_RI_=wba3115317ae46e198b22919d15e93d8;_UP_A4A_11_=wba31191c5e54e1d91d79bc5d49ef1d4;_UP_D_=pc;ctoken=4Fro5m1bLq4JX3_o5dCzdV_Z;__pus=64e75d8f6ad632256f3147024dccc3c5AARqroKgzqNasLFQ8+6k2mOIBFPwaUiA7rmAJb/Yuv3WNWFNcf8jK9GqFswniqxVuzS5YiqckQBQcYtkY7JhlQNC;__kp=b6d67710-a912-11f1-9db0-17490a717b0c;__kps=AARYdTVd92lfw9KjvZiP7mSL;__ktd=e3ST17CoU2FBlbQHHE5EVw==;__uid=AARYdTVd92lfw9KjvZiP7mSL;__puus=3428d5c5584cca81cc1716eded18af42AAQBX9io7HSl/3dPWduj5l4eyWSSGstv6JMC2gXzFu6FdUelfbUoqAcSr4ViTrNEYfxOk7sgF/f/2BJEmJFE7zpev9Z2K2llIpArohvuM9C5h0zpugU/Fv7G7Zc4omizHMiTo4WqdeGLGiL4D2yTMA6nchl+sJMYy2aMBHPaJ1AjpIZH/Gjhfgxn6KwzFt1GLbqa+G8PN/Lza4dDkrg9hRUw;",
     playMode: "nosave"
   },
   uc: {
@@ -40,7 +40,14 @@ var index_config_default = {
     cookie: ""
   },
   baidu: {
-    cookie: "cookie"
+    cookie: "XFI=ffc475d5-3d95-1fd9-a35f-e0c212061319; XFCS=BCF3716F2A17D4C406A15AD8B848304F9BBC220478CA005523468BB417E48B19; XFT=bqx16VDCL+5qBWQIrKhkGPNwFOn3yMM9zqHP8X8rlMo=; PSTM=1780849771; BIDUPSID=CB332B4F040118DA76FBBC991F6A90E5; BAIDUID=9B4E417CC2FD16CED066DCAE6359FD7B:SL=0:NR=10:FG=1; H_WISE_SIDS_BFESS=63143_67861_71506_72089_72661_72696_72948_73000_73030_73056_73079_73092_73118_73224_73229_73235_73260_73316_73303_73290_73329_73408_73345_73366_73377_73416_73449_73450_73540_73571_73592_73594_73598_73046_73675_73700_73688_73713_73716_73723_73725_73750_73742_73646_73698_73734_73739_73654_73650_73744_73721_73741_73780_73781_73788_73786_73796_73794_73790_73749_73804_73830_73876_73892_73897_73908_73920_73923_73947_73952_73958_73965_73971_74009; BDORZ=B490B5EBF6F3CD402E515D22BCDA1598; H_WISE_SIDS=63143_67861_72089_72661_72696_72948_73030_73056_73092_73224_73316_73290_73329_73345_73366_73377_73416_73449_73450_73540_73571_73592_73594_73598_73675_73700_73688_73713_73723_73725_73750_73742_73646_73698_73734_73739_73654_73650_73744_73721_73741_73780_73781_73788_73786_73796_73794_73790_73749_73804_73830_73843_73876_73892_73897_73908_73920_73923_73947_73952_73958_73965_73971_74009_73998_73828_74054_74056_74179_74185_74377_74241_74261_74311_74341_74194_74215_74280_74302_74467_74367; H_PS_PSSID=63143_67861_72089_72661_72696_72948_73030_73056_73092_73224_73316_73290_73329_73345_73366_73377_73416_73449_73450_73540_73571_73592_73594_73598_73675_73700_73688_73713_73723_73725_73750_73742_73646_73698_73734_73739_73654_73650_73744_73721_73741_73780_73781_73788_73786_73796_73794_73790_73749_73804_73830_73843_73876_73892_73897_73908_73920_73923_73947_73952_73958_73965_73971_74009_73998_73828_74054_74056_74152_74146_74076_74140_74179_74185_74377_74241_74261_74311_74341_74194_74215_74280_74302_74467_74367; BAIDUID_BFESS=9B4E417CC2FD16CED066DCAE6359FD7B:SL=0:NR=10:FG=1; delPer=0; PSINO=7; csrfToken=hLcJAeBlInkgMHa-zRyV882_; newlogin=1; ploganondeg=1; ppfuid=e992610d9ec710aff431c30f17a80887; XFI=081bedb0-a889-11f1-9a0f-c9b3ae629dbe; undefined; XFT=TVfZm+tKtKzZdVSLiVB38qTmitPmfU08dVPs56BpCFU=; BDUSS=nJWaU1DWnV-QTB6TXdnME9FNUFETWxSd3JnUkVJekhpN0tlVEh0VXlra2FrOEpxSVFBQUFBJCQAAAAAAAAAAAEAAAAaeaXz0ru49rSry7VvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoGm2oaBptqe; BDUSS_BFESS=nJWaU1DWnV-QTB6TXdnME9FNUFETWxSd3JnUkVJekhpN0tlVEh0VXlra2FrOEpxSVFBQUFBJCQAAAAAAAAAAAEAAAAaeaXz0ru49rSry7VvAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABoGm2oaBptqe; STOKEN=a19909c6248c65f4f6c378756b6a3a80f8553705c03338ddf9cf8b452c6acd4b; __bid_n=1a06d8fe0e58048781ca3d; Hm_lvt_182d6d59474cf78db37e0b2248640ea5=1788544542; BA_HECTOR=04218g212h0g20ak24808g01ahalag1l9m1kt28; ZFY=yWRe2Xfw:BfHSx6IywNiD:Brl6btKXklTj2trKksM:Bpyg:C; BDRCVFR[feWj1Vr5u3D]=I67x6TjHwwYf0; BCLID=6598736223127333724; BCLID_BFESS=6598736223127333724; BDSFRCVID=9J4OJexroGWoEWc89TXxEHtYodNbUdrTDYrEOwXPsp3LGJLV4sG6EG0Pts1-dEub6j30ogKK3gOTH4e-_gt2JyLmsdR-d2qcKNOStf8g0M5; BDSFRCVID_BFESS=9J4OJexroGWoEWc89TXxEHtYodNbUdrTDYrEOwXPsp3LGJLV4sG6EG0Pts1-dEub6j30ogKK3gOTH4e-_gt2JyLmsdR-d2qcKNOStf8g0M5; H_BDCLCKID_SF=tbC8VCDXfII3qbjkq45HMt00qxby26PDJK39aJ5nJD_MJ-J556tWefFOK4o7-pcyy67O--QmQpP-HJ7VDpQBb-Le-4bIKTjGWIreKl0MLpjlbb0xyUjDj4IA3UnMBMPe52OnaIbHHx7JfKo_2fvVKP0wqf8Hb4JiBeOgLnLy5KJWMDFRDjuBDj5WDHRabK6aKC5bL6rJabC3DKOcXU6q2bDeQnJy0lb2fn5A0PoNWPbZDnb8-lofKl0vWq54WbbvLT7johRTWqR4M-OjjxonDh83KNLLKUQtKJcBoKJO5hvvhn3O3MAMbDumbp8HBJcra67bbj6ettjjOprO0nOte-bQXH_EJ5_8fRCq_KDQKt8_HRjYbb__-P4Den3T3xRZ56bHWh36ah5RHIPwytO-Qfk3WfnbWtjP5TrnKUT-3l7boMJRK5bdQUIT3GOe05543bRTLP8hHRbpfJ_CM6-2hP-UyNbMWh37JIILMb32tqcB8b6RbhKVb5DL-PRwWhJJ5JbMopCafD8abDIlj6taePDyqx5Ka43tHD7yWCkX5KbcOR59K4nn3P4k3U-Oql3v3mT7LUTO5prDSJb43MOZKxLg5n7Tbb8eBgvZ2UL2-h0-sq0x0bO5DDuOQqoattIetIOMahkb5h7xOKbNqqnJ55Dp2tvLb-3NHCPHQROcBq76fbL9bT3YjjTyDHu8J6KftR3aQ5rtKRTffjrnhPF3efT3XP6-hnjy3avyKx3JfITxo-nHybOZhP0N-Robbq3Ry6r42-39LPO2hpRjyxv4jbt1j4oxJpOJ-bCL0p5aKDQ8hIJvbURvDP-g3-AJKCrd55PHatT1a4OfV66gDRQjyUCg0pOhqP-jBRIE3-oJqC8KbK_m3H; H_BDCLCKID_SF_BFESS=tbC8VCDXfII3qbjkq45HMt00qxby26PDJK39aJ5nJD_MJ-J556tWefFOK4o7-pcyy67O--QmQpP-HJ7VDpQBb-Le-4bIKTjGWIreKl0MLpjlbb0xyUjDj4IA3UnMBMPe52OnaIbHHx7JfKo_2fvVKP0wqf8Hb4JiBeOgLnLy5KJWMDFRDjuBDj5WDHRabK6aKC5bL6rJabC3DKOcXU6q2bDeQnJy0lb2fn5A0PoNWPbZDnb8-lofKl0vWq54WbbvLT7johRTWqR4M-OjjxonDh83KNLLKUQtKJcBoKJO5hvvhn3O3MAMbDumbp8HBJcra67bbj6ettjjOprO0nOte-bQXH_EJ5_8fRCq_KDQKt8_HRjYbb__-P4Den3T3xRZ56bHWh36ah5RHIPwytO-Qfk3WfnbWtjP5TrnKUT-3l7boMJRK5bdQUIT3GOe05543bRTLP8hHRbpfJ_CM6-2hP-UyNbMWh37JIILMb32tqcB8b6RbhKVb5DL-PRwWhJJ5JbMopCafD8abDIlj6taePDyqx5Ka43tHD7yWCkX5KbcOR59K4nn3P4k3U-Oql3v3mT7LUTO5prDSJb43MOZKxLg5n7Tbb8eBgvZ2UL2-h0-sq0x0bO5DDuOQqoattIetIOMahkb5h7xOKbNqqnJ55Dp2tvLb-3NHCPHQROcBq76fbL9bT3YjjTyDHu8J6KftR3aQ5rtKRTffjrnhPF3efT3XP6-hnjy3avyKx3JfITxo-nHybOZhP0N-Robbq3Ry6r42-39LPO2hpRjyxv4jbt1j4oxJpOJ-bCL0p5aKDQ8hIJvbURvDP-g3-AJKCrd55PHatT1a4OfV66gDRQjyUCg0pOhqP-jBRIE3-oJqC8KbK_m3H; ndut_fmt=46A4CA91D414B096E0DAC5D0073244E44AACED344AE41ECC5D10251F1726EBB0; PANPSC=2606899086919536352%3Afuky8UrKH%2BnPkrqKOfQXN1cS2d9ns3O5C61tf8CKQkinerq%2Ban%2Bd0AXQ225L75l2z81ttRoL0tCck0T9AttkQaZnLgYxb1TXf6eUaDUnfZ4uMfKx4%2Fks5zaPJvsmh0iKu%2B1swtT8liy69ww%2FXM8710CcDXf4BImcqISEg8XbPO6XESOxKXbiIWKmXcvc2dd5bH2fO7vFsi9cpo9ldPCg2HN4jAMHKBDgAwIRTop3cKMjsWtZokcMTb8QW0evymIye%2BQp%2Fo%2B8%2F83L7KkbA0qYzNq4rLw12oGwTrrXfvzJ9iBD7HKvGU4J9JKxVlqrIDxM; ab_sr=1.0.1_YzY4NDNlZjI5ZDVmM2NjODZjMmE5NjI4Mjg3ZGIyNWU1OGVlMjliZGFmM2Y5NzlmNzgyNWM4YjNhYWEwYmQxN2I1YzIwOTliMTJiZmNhYTI4NzA5ZWFkZGI4NjMzYWI5OGE0NDQ4NTg1MTcwNTAwNjRjMTNjYjE4YTM3NjQ3ODUyMDc2ODRhZDdhZTRjZTc4ODFjMGZlNzAxYjQwZTFmZDI4MjU2YWI0M2E1OTc1ZTk4ZTAwZWU5N2IwM2U1NmU2NTk3ZDNiZWFhZmNmYmMwZjdmYzk5M2IwYzc0M2U5YmU=; Hm_lpvt_182d6d59474cf78db37e0b2248640ea5=1788549351"
+  },
+  guangya: {
+    accessToken: ""
+  },
+  xunlei: {
+    username: "",
+    password: ""
   },
   muou: {
     url: "http://666.666291.xyz"
@@ -172,6 +179,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_blsp",
+        "name": "🔰哔站丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_bili",
         "name": "🔰哔哩丨影视",
         "enable": true
@@ -179,6 +191,31 @@ var index_config_default = {
       {
         "key": "nodejs_pozhan",
         "name": "🔰破绽丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_huayi",
+        "name": "🔰华谊丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_juzhi",
+        "name": "🔰橘汁丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_waibi",
+        "name": "🔰歪比丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_keke",
+        "name": "🔰可可丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_feifan",
+        "name": "🔰非凡丨影视",
         "enable": true
       },
       {
@@ -369,6 +406,11 @@ var index_config_default = {
       {
         "key": "nodejs_niuniu",
         "name": "🔰牛牛丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_xingya",
+        "name": "🔰星雅丨影视",
         "enable": true
       },
       {
@@ -667,6 +709,16 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_qingxin",
+        "name": "🔰清新丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_tunjing",
+        "name": "🔰吞金丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_xuniang",
         "name": "🔰徐娘丨影视",
         "enable": true
@@ -874,6 +926,16 @@ var index_config_default = {
         "key": "ali",
         "name": "阿里",
         "enable": true
+      },
+      {
+        "key": "guangya",
+        "name": "光鸭",
+        "enable": true
+      },
+      {
+        "key": "xunlei",
+        "name": "迅雷",
+        "enable": true
       }
     ]
   },
@@ -895,7 +957,7 @@ var index_config_default = {
   },
   bili: {
     categories: "经典无损音乐合集#帕梅拉#太极拳#健身#舞蹈#音乐#歌曲#MV4K#演唱会4K#白噪音4K#知名UP主#说案#解说#演讲#时事#探索发现超清#纪录片超清#沙雕动画#沙雕穿越#沙雕#平面设计教学#软件教程#实用教程#旅游#风景4K#食谱#美食超清#搞笑#球星#动物世界超清#相声小品#戏曲#儿童#小姐姐4K#热门#旅行探险",
-    cookie: "buvid3=26D0D885-BF36-D679-494B-C22C6CF8960884969infoc; b_nut=1757906984; _uuid=ED2746B7-45F5-66108-D5107-15A41C522CAF85569infoc; buvid4=F697B924-DEA4-67C7-AA33-BFAE4688AB4A87119-025091511-FmGbxbnih8H4Crv5rZCi4tsbfDnofgtpYyUOnig+W/F5vZ6EhbzOGglyhVO8kZSa; buvid_fp=dd26b705cf9bef1a935f39a75912276a; enable_web_push=DISABLE; home_feed_column=4; theme-tip-show=SHOWED; CURRENT_QUALITY=0; rpdid=0zbfVGph63|ONfOke9J|Upp|3w1VfmN1; CURRENT_FNVAL=4048; b_lsid=64EBBC86_19B54E02FD3; bsource=search_baidu; bmg_af_switch=1; bmg_src_def_domain=i0.hdslb.com; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3NjY5MTQ3MzUsImlhdCI6MTc2NjY1NTQ3NSwicGx0IjotMX0.ua3JsvvIY6Jc7T-XVb_cK2igvOXQPCaO2yq8EygLpzg; bili_ticket_expires=1766914675; SESSDATA=f297840a%2C1782207580%2Cf5c8e%2Ac1; bili_jct=79b3b723f05d8b71e43aa00016443987; DedeUserID=498722412; DedeUserID__ckMd5=05428c847cdf9a95; sid=g0cl4ypg; theme-avatar-tip-show=SHOWED; browser_resolution=1151-239"
+    cookie: `buvid3=F6757786-79D1-718F-8852-35D5BA65672F56858infoc; b_nut=1782801756; _uuid=E8BEBA1A-ED21-F1083-4C9D-3125A1FF75A357520infoc; buvid4=A826C0B3-0169-3AD6-F6B9-D8C78499E1B858068-026063014-nVsjFz9KaSU6HlEKQFRHW16/88e7LpeGtSHZovVt+6xGcY85Ri+CfEhe6mdXmZxM; buvid_fp=8ea8f7de250999f0bed6d9207b388faf; theme-tip-show=SHOWED; theme-avatar-tip-show=SHOWED; CURRENT_QUALITY=0; rpdid=0zbfVGpPax|Nn2hdRLh|13l|3w1WEsYd; __at_once=9202883950713515275; bili_ticket=eyJhbGciOiJIUzI1NiIsImtpZCI6InMwMyIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3ODg4MDMyODgsImlhdCI6MTc4ODU0NDAyOCwicGx0IjotMX0.c0YpZVGAP-Zi7ReqJ6DhfG8j17ZhoDMWw8r4u7F_cw0; bili_ticket_expires=1788803228; bmg_af_switch=1; bmg_src_def_domain=i2.hdslb.com; bmg_af_sc={"none":{"on":1,"def":"i2.hdslb.com"},"sgp":{"on":1,"def":"i2-sgp.hdslb.com"}}; CURRENT_FNVAL=16; theme-switch-show=SHOWED; SESSDATA=e37188f8%2C1804098154%2Cf9b2b%2A92CjARyQt6RbcQpMfBN8XLdHOcTzDqMGjAjbQS96NRXzcLOHpDerqjTuWxlVC3dC6iUCUSVnNaeGFFaG1rQjVSSTBXWVV1RmM4Vlp6dWdWV0x5TVBKa2lQMnNJSDg2RF93NWx2TUNVNmdEay1jbW9PeHZ4dFVkeGxHbGJxTUYxWjA4NGVvMzg1aE53IIEC; bili_jct=d82757b6bbd66ea53ce0688979c1b46e; DedeUserID=1260187477; DedeUserID__ckMd5=8d4cc867eb5926a1; sid=4vyt30m3; home_feed_column=4; browser_resolution=1317-630; bp_t_offset_1260187477=1244291174278103040; b_lsid=BF2B6B28_1A06DBD5F7B`
   },
   live: {
     contents: "",
