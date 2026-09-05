@@ -947,7 +947,7 @@ var index_config_default = {
       { address: "https://danmu.ai50.ccwu.cc/87654321", name: "弹幕接口4" },
       { address: "https://dx.sld.tw/87654321", name: "弹幕接口5" }
     ],
-    autoPush: false
+    autoPush: true
   },
   t4: {
     list: []
