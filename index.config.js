@@ -126,7 +126,7 @@ var index_config_default = {
       {
         "key": "nodejs_panta",
         "name": "🔰资源丨网盘",
-        "enable": true
+        "enable": false
       },
       {
         "key": "nodejs_pansodb",
@@ -943,11 +943,9 @@ var index_config_default = {
     urls: [
       { address: "https://dm11111.ccwu.cc/87654321", name: "弹幕接口1" },
       { address: "https://dm22222.ccwu.cc/87654321", name: "弹幕接口2" },
-      { address: "https://dm33333.ccwu.cc/87654321", name: "弹幕接口3" },
-      { address: "https://danmu.ai50.ccwu.cc/87654321", name: "弹幕接口4" },
-      { address: "https://dx.sld.tw/87654321", name: "弹幕接口5" }
+      { address: "https://dm33333.ccwu.cc/87654321", name: "弹幕接口3" }
     ],
-    autoPush: true
+    autoPush: false
   },
   t4: {
     list: []
