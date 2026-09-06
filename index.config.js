@@ -49,6 +49,24 @@ var index_config_default = {
     username: "",
     password: ""
   },
+  woniu: {
+    "cookie": "user_id=353; user_name=zxf2007pk; group_id=2; group_name=%E6%99%AE%E9%80%9A%E4%BC%9A%E5%91%98; user_check=7e0e0b09090c4c110563c93f7d7d022c; user_portrait=%2Fstatic_new%2Fimages%2Ftouxiang.png"
+  },
+  guanying: {
+    "cookie": "PHPSESSID=546jr5utlmin17adejg2qvpgoq; app_auth=e62eCRmKYC_Qvqm0-iUaJUGTIiMa7-AhBG0K52ImWrq6u7DU6-vsQbjJXbPUCy7HO_DN"
+    // 不需要填browser_verified，代码会自动通过PoW获取
+  },
+  zn4k: {
+    "cookie": ""
+  },
+  /*woniu: {
+    username: "",
+    password: ""
+  },
+  guanying: {
+    username: "",
+    password: ""
+  },*/
   muou: {
     url: "http://666.666291.xyz"
   },
@@ -121,6 +139,21 @@ var index_config_default = {
       {
         "key": "nodejs_exiao",
         "name": "🔰贰筱丨网盘",
+        "enable": true
+      },
+      {
+        "key": "nodejs_woniu",
+        "name": "🔰蜗牛丨网盘",
+        "enable": true
+      },
+      {
+        "key": "nodejs_guanying",
+        "name": "🔰观影丨网盘",
+        "enable": true
+      },
+      {
+        "key": "nodejs_zn4k",
+        "name": "🔰指南丨网盘",
         "enable": true
       },
       {
