@@ -367,6 +367,31 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_qimaoyingshi",
+        "name": "🔰七猫丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_juz30",
+        "name": "🔰剧集丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_yiqiyingshi",
+        "name": "🔰意起丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_zhuiying",
+        "name": "🔰追影丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_zgtv",
+        "name": "🔰追光丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_jumi",
         "name": "🔰剧迷丨影视",
         "enable": true
@@ -434,6 +459,11 @@ var index_config_default = {
       {
         "key": "nodejs_qingcheng",
         "name": "🔰青橙丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_xifuduanju",
+        "name": "🔰喜福丨影视",
         "enable": true
       },
       {
@@ -724,6 +754,76 @@ var index_config_default = {
       {
         "key": "nodejs_baihetv",
         "name": "🔰百合丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_dingxiang",
+        "name": "🔰定香丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_mjv011",
+        "name": "🔰妖妖丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_yiniuys",
+        "name": "🔰逸牛丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_jyzj",
+        "name": "🔰争敬丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_sjry",
+        "name": "🔰人衣丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_shunvh",
+        "name": "🔰熟女丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_jable",
+        "name": "🔰杰布丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_netfapx",
+        "name": "🔰美洲丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_sanliusp",
+        "name": "🔰三流丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_mtyx",
+        "name": "🔰女生丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_yzfnb",
+        "name": "🔰粉嫩丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_sndag",
+        "name": "🔰档案丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_adultporna",
+        "name": "🔰情色丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_eba",
+        "name": "🔰依毕丨影视",
         "enable": true
       },
       {
