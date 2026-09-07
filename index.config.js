@@ -267,8 +267,8 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_renren",
-        "name": "🔰人人丨影视",
+        "key": "nodejs_tianqi",
+        "name": "🔰天绮丨影视",
         "enable": true
       },
       {
