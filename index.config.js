@@ -32,9 +32,9 @@ var index_config_default = {
     playMode: "nosave"
   },
   uc: {
-    cookie: "",
-    token: "",
-    ut: ""
+    cookie: "cookie",
+    token: "token",
+    ut: "ut"
   },
   y115: {
     cookie: ""
