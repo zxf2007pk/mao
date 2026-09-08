@@ -227,6 +227,26 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_shaoerjiaoyu",
+        "name": "🔰少儿丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_xiaoxueketang",
+        "name": "🔰小学丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_chuzhongketang",
+        "name": "🔰初中丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_gaozhongketang",
+        "name": "🔰高中丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_huayi",
         "name": "🔰华谊丨影视",
         "enable": true
@@ -474,6 +494,11 @@ var index_config_default = {
       {
         "key": "nodejs_xingya",
         "name": "🔰星雅丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_hongguo",
+        "name": "🔰红果丨影视",
         "enable": true
       },
       {
@@ -824,6 +849,41 @@ var index_config_default = {
       {
         "key": "nodejs_eba",
         "name": "🔰依毕丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_mitao",
+        "name": "🔰蜜桃丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_shuimei",
+        "name": "🔰水妹丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_xianyuan",
+        "name": "🔰仙缘丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_fengyuege",
+        "name": "🔰风月丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_jiuyuhua",
+        "name": "🔰酒花丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_xindong",
+        "name": "🔰心动丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_xianchang",
+        "name": "🔰现场丨影视",
         "enable": true
       },
       {
