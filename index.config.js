@@ -887,8 +887,28 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_shushu",
-        "name": "🔰叔叔丨影视",
+        "key": "nodejs_jiuse",
+        "name": "🔰久色丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_xhy",
+        "name": "🔰香花丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_huaqianse",
+        "name": "🔰千色丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_mogu",
+        "name": "🔰蘑菇丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_youyou",
+        "name": "🔰悠悠丨影视",
         "enable": true
       },
       {
@@ -899,6 +919,11 @@ var index_config_default = {
       {
         "key": "nodejs_nanniang",
         "name": "🔰男娘丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_shushu",
+        "name": "🔰叔叔丨影视",
         "enable": true
       },
       {
