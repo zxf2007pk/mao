@@ -247,13 +247,48 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_huayi",
-        "name": "🔰华谊丨影视",
+        "key": "nodejs_ddys",
+        "name": "🔰多多丨影视",
         "enable": true
       },
       {
-        "key": "nodejs_juzhi",
-        "name": "🔰橘汁丨影视",
+        "key": "nodejs_fenglin",
+        "name": "🔰枫林丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_fengye",
+        "name": "🔰枫叶丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_guazi",
+        "name": "🔰瓜子丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_duboku",
+        "name": "🔰独播丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_jieyingshi",
+        "name": "🔰神界丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_jinpai",
+        "name": "🔰金牌丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_jianpian",
+        "name": "🔰剑锋丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_huayi",
+        "name": "🔰华谊丨影视",
         "enable": true
       },
       {
@@ -317,49 +352,9 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_ddys",
-        "name": "🔰多多丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_fenglin",
-        "name": "🔰枫林丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_fengye",
-        "name": "🔰枫叶丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_guazi",
-        "name": "🔰瓜子丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_duboku",
-        "name": "🔰独播丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_jieyingshi",
-        "name": "🔰神界丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_jinpai",
-        "name": "🔰金牌丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_jianpian",
-        "name": "🔰剑锋丨影视",
-        "enable": true
-      },
-      {
         "key": "nodejs_qkys",
         "name": "🔰趣看丨影视",
-        "enable": true
+        "enable": false
       },
       {
         "key": "nodejs_daquan",
