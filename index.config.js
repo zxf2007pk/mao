@@ -912,6 +912,31 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_langyou",
+        "name": "🔰狼友丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_lusi",
+        "name": "🔰露思丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_sehuatang",
+        "name": "🔰花堂丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_langchao",
+        "name": "🔰浪潮丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_tianxia",
+        "name": "🔰天下丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_lingyu",
         "name": "🔰领域丨影视",
         "enable": true
