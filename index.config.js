@@ -109,12 +109,12 @@ var index_config_default = {
       {
         "key": "nodejs_xiaomi",
         "name": "🔰小米丨网盘",
-        "enable": true
+        "enable": false
       },
       {
         "key": "nodejs_zhizhen",
         "name": "🔰至臻丨网盘",
-        "enable": true
+        "enable": false
       },
       {
         "key": "nodejs_ouge",
@@ -124,7 +124,7 @@ var index_config_default = {
       {
         "key": "nodejs_lbpp",
         "name": "🔰蜡笔丨网盘",
-        "enable": true
+        "enable": false
       },
       {
         "key": "nodejs_duoduo",
@@ -139,7 +139,7 @@ var index_config_default = {
       {
         "key": "nodejs_exiao",
         "name": "🔰贰筱丨网盘",
-        "enable": true
+        "enable": false
       },
       {
         "key": "nodejs_woniu",
