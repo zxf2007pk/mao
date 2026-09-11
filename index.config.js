@@ -247,6 +247,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_juzhi",
+        "name": "🔰橘汁丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_ddys",
         "name": "🔰多多丨影视",
         "enable": true
