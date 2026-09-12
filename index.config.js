@@ -247,11 +247,6 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_juzhi",
-        "name": "🔰橘汁丨影视",
-        "enable": true
-      },
-      {
         "key": "nodejs_ddys",
         "name": "🔰多多丨影视",
         "enable": true
@@ -269,6 +264,11 @@ var index_config_default = {
       {
         "key": "nodejs_guazi",
         "name": "🔰瓜子丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_keke",
+        "name": "🔰可可丨影视",
         "enable": true
       },
       {
@@ -297,13 +297,18 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_waibi",
-        "name": "🔰歪比丨影视",
+        "key": "nodejs_juzhi",
+        "name": "🔰橘汁丨影视",
         "enable": true
       },
       {
-        "key": "nodejs_keke",
-        "name": "🔰可可丨影视",
+        "key": "nodejs_gulu",
+        "name": "🔰咕噜丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_waibi",
+        "name": "🔰歪比丨影视",
         "enable": true
       },
       {
@@ -817,6 +822,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_jab",
+        "name": "🔰婕步丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_netfapx",
         "name": "🔰美洲丨影视",
         "enable": true
@@ -937,6 +947,16 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_shuilanting",
+        "name": "🔰水婷丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_weimei",
+        "name": "🔰唯美丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_lingyu",
         "name": "🔰领域丨影视",
         "enable": true
@@ -979,6 +999,11 @@ var index_config_default = {
       {
         "key": "nodejs_xingqiu",
         "name": "🔰星球丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_tangtoutiao",
+        "name": "🔰汤头丨影视",
         "enable": true
       },
       {
@@ -1068,7 +1093,7 @@ var index_config_default = {
       },
       {
         "key": "nodejs_crdj91",
-        "name": "🔰橙人丨影视",
+        "name": "🔰橙短丨影视",
         "enable": true
       },
       {
