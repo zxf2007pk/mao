@@ -1209,9 +1209,11 @@ var index_config_default = {
   },
   danmu: {
     urls: [
-      { address: "https://dm11111.ccwu.cc/87654321", name: "弹幕接口1" },
-      { address: "https://dm22222.ccwu.cc/87654321", name: "弹幕接口2" },
-      { address: "https://dm33333.ccwu.cc/87654321", name: "弹幕接口3" }
+      { address: "https://dm99999.ccwu.cc/87654321", name: "弹幕接口1" },
+      { address: "https://dm88888.ccwu.cc/87654321", name: "弹幕接口2" },
+      { address: "https://dm11111.ccwu.cc/87654321", name: "弹幕接口3" },
+      { address: "https://dm22222.ccwu.cc/87654321", name: "弹幕接口4" },
+      { address: "https://dm33333.ccwu.cc/87654321", name: "弹幕接口5" }
     ],
     autoPush: false
   },
