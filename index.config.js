@@ -247,6 +247,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_wangzhan234",
+        "name": "🔰聚合丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_ddys",
         "name": "🔰多多丨影视",
         "enable": true
@@ -499,11 +504,6 @@ var index_config_default = {
       {
         "key": "nodejs_xingya",
         "name": "🔰星雅丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_hongguo",
-        "name": "🔰红果丨影视",
         "enable": true
       },
       {
@@ -947,6 +947,56 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_shentong",
+        "name": "🔰神通丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_xieyu",
+        "name": "🔰谢欲丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_xiaohun",
+        "name": "🔰销魂丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_sewo",
+        "name": "🔰色窝丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_rjsq",
+        "name": "🔰日久丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_longfeng",
+        "name": "🔰龙凤丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_jiuheyi",
+        "name": "🔰九趣丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_jianhuangshi",
+        "name": "🔰鉴黄丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_caocao",
+        "name": "🔰草草丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_yiren",
+        "name": "🔰伊人丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_shuilanting",
         "name": "🔰水婷丨影视",
         "enable": true
@@ -1102,6 +1152,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_huangchao",
+        "name": "🔰皇朝丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_acfan",
         "name": "🔰皇漫丨影视",
         "enable": true
@@ -1114,6 +1169,11 @@ var index_config_default = {
       {
         "key": "nodejs_hddj",
         "name": "🔰皇豆丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_huanggua",
+        "name": "🔰皇瓜丨影视",
         "enable": true
       },
       {
