@@ -139,7 +139,7 @@ var index_config_default = {
       {
         "key": "nodejs_exiao",
         "name": "🔰贰筱丨网盘",
-        "enable": false
+        "enable": true
       },
       {
         "key": "nodejs_woniu",
@@ -382,6 +382,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_daishu",
+        "name": "🔰袋鼠丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_chanming",
         "name": "🔰蝉鸣丨影视",
         "enable": true
@@ -510,11 +515,6 @@ var index_config_default = {
         "key": "nodejs_duanju",
         "name": "🔰短剧丨影视",
         "enable": true
-      },
-      {
-        "key": "nodejs_appys",
-        "name": "🔰美剧丨影视",
-        "enable": false
       },
       {
         "key": "nodejs_yangshi",
@@ -1103,6 +1103,11 @@ var index_config_default = {
       },
       {
         "key": "nodejs_MissAV",
+        "name": "🔰名星丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_MissAV2",
         "name": "🔰明星丨影视",
         "enable": true
       },
@@ -1144,6 +1149,11 @@ var index_config_default = {
       {
         "key": "nodejs_crdj91",
         "name": "🔰橙短丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_duanju57",
+        "name": "🔰吃瓜丨影视",
         "enable": true
       },
       {
@@ -1307,13 +1317,6 @@ var index_config_default = {
         url: ""
       }
     ]
-  },
-  appys: {
-    ttmja: [{
-      name: "天天美剧",
-      url: "https://www.ttmja.com/api.php/app/",
-      search: true
-    }]
   },
   m3u8cj: {
     tiantang: [{
