@@ -157,6 +157,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_yidong",
+        "name": "🔰移动丨网盘",
+        "enable": true
+      },
+      {
         "key": "nodejs_panta",
         "name": "🔰资源丨网盘",
         "enable": false
@@ -279,6 +284,11 @@ var index_config_default = {
       {
         "key": "nodejs_duboku",
         "name": "🔰独播丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_jisuzhuiju",
+        "name": "🔰极速丨影视",
         "enable": true
       },
       {
@@ -502,6 +512,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_hongdou",
+        "name": "🔰红豆丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_niuniu",
         "name": "🔰牛牛丨影视",
         "enable": true
@@ -674,11 +689,6 @@ var index_config_default = {
       {
         "key": "nodejs_sisi",
         "name": "🔰思思丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_quanse",
-        "name": "🔰权色丨影视",
         "enable": true
       },
       {
@@ -1004,6 +1014,21 @@ var index_config_default = {
       {
         "key": "nodejs_weimei",
         "name": "🔰唯美丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_youguan",
+        "name": "🔰油管丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_sejie",
+        "name": "🔰色界丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_xiaomalache",
+        "name": "🔰小马丨影视",
         "enable": true
       },
       {
