@@ -272,6 +272,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_nangua",
+        "name": "🔰南瓜丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_guazi",
         "name": "🔰瓜子丨影视",
         "enable": true
@@ -472,6 +477,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_ciyuan",
+        "name": "🔰辞源丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_mifun",
         "name": "🔰芈坊丨影视",
         "enable": true
@@ -494,6 +504,11 @@ var index_config_default = {
       {
         "key": "nodejs_lanhai",
         "name": "🔰蓝海丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_hongguo",
+        "name": "🔰红果丨影视",
         "enable": true
       },
       {
