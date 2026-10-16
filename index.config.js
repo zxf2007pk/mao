@@ -1296,7 +1296,7 @@ var index_config_default = {
     urls: [
 	  { address: "https://dm55555.ccwu.cc/87654321", name: "弹幕接口1" },
 	  { address: "https://dm66666.ccwu.cc/87654321", name: "弹幕接口2" },
-    { address: "https://dm88888.ccwu.cc/87654321", name: "弹幕接口3" },
+      { address: "https://dm88888.ccwu.cc/87654321", name: "弹幕接口3" },
  	  { address: "https://dm99999.ccwu.cc/87654321", name: "弹幕接口5" }
     ],
     autoPush: false
