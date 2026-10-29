@@ -71,7 +71,7 @@ var index_config_default = {
     url: "http://666.666291.xyz"
   },
   wogg: {
-    url: ""
+    url: "https://www.wogg.net"
   },
   leijing: {
     url: ""
@@ -317,11 +317,6 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_juzhi",
-        "name": "🔰橘汁丨影视",
-        "enable": true
-      },
-      {
         "key": "nodejs_gulu",
         "name": "🔰咕噜丨影视",
         "enable": true
@@ -487,11 +482,6 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_yzkdm",
-        "name": "🔰樱空丨影视",
-        "enable": true
-      },
-      {
         "key": "nodejs_xifan",
         "name": "🔰稀饭丨影视",
         "enable": true
@@ -652,11 +642,6 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_jiuyao",
-        "name": "🔰久妖丨影视",
-        "enable": true
-      },
-      {
         "key": "nodejs_qiqi",
         "name": "🔰奇奇丨影视",
         "enable": true
@@ -677,11 +662,6 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_liuri",
-        "name": "🔰路意丨影视",
-        "enable": true
-      },
-      {
         "key": "nodejs_sisi",
         "name": "🔰思思丨影视",
         "enable": true
@@ -689,11 +669,6 @@ var index_config_default = {
       {
         "key": "nodejs_shaonv",
         "name": "🔰少女丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_xingba",
-        "name": "🔰杏吧丨影视",
         "enable": true
       },
       {
@@ -757,16 +732,6 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_hqg",
-        "name": "🔰环球丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_gaokao",
-        "name": "🔰高考丨影视",
-        "enable": true
-      },
-      {
         "key": "nodejs_yidouge",
         "name": "🔰抖阁丨影视",
         "enable": true
@@ -782,16 +747,6 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_leyuan",
-        "name": "🔰乐园丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_baihetv",
-        "name": "🔰百合丨影视",
-        "enable": true
-      },
-      {
         "key": "nodejs_dingxiang",
         "name": "🔰定香丨影视",
         "enable": true
@@ -804,11 +759,6 @@ var index_config_default = {
       {
         "key": "nodejs_yiniuys",
         "name": "🔰逸牛丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_jyzj",
-        "name": "🔰争敬丨影视",
         "enable": true
       },
       {
@@ -874,16 +824,6 @@ var index_config_default = {
       {
         "key": "nodejs_shuimei",
         "name": "🔰水妹丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_xianyuan",
-        "name": "🔰仙缘丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_fengyuege",
-        "name": "🔰风月丨影视",
         "enable": true
       },
       {
@@ -1047,11 +987,6 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_tunjing",
-        "name": "🔰吞金丨影视",
-        "enable": true
-      },
-      {
         "key": "nodejs_xuniang",
         "name": "🔰徐娘丨影视",
         "enable": true
@@ -1139,11 +1074,6 @@ var index_config_default = {
       {
         "key": "nodejs_jzzy",
         "name": "🔰橘源丨影视",
-        "enable": true
-      },
-      {
-        "key": "nodejs_one",
-        "name": "🔰依格丨影视",
         "enable": true
       },
       {
@@ -1316,7 +1246,7 @@ var index_config_default = {
     url: [
       {
         name: "电视",
-        url: "https://d.kstore.dev/download/12849/iptv/iptv.txt"
+        url: "https://dl.kstore.dev/download/12849/iptv/iptv.txt"
       },
       {
         name: "",
