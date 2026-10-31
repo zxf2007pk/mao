@@ -71,7 +71,8 @@ var index_config_default = {
     url: "http://666.666291.xyz"
   },
   wogg: {
-    url: "https://www.wogg.net"
+  url: "",
+  urls: ["https://www.wogg.net"]
   },
   leijing: {
     url: ""
