@@ -588,11 +588,6 @@ var index_config_default = {
         "enable": true
       },
       {
-        "key": "nodejs_jianghu",
-        "name": "🔰江湖丨影视",
-        "enable": true
-      },
-      {
         "key": "nodejs_wyy",
         "name": "🔰网易丨影视",
         "enable": true
