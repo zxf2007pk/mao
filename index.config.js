@@ -138,6 +138,16 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_kuaiying",
+        "name": "🔰快映丨网盘",
+        "enable": true
+      },
+      {
+        "key": "nodejs_huajuan",
+        "name": "🔰花卷丨网盘",
+        "enable": true
+      },
+      {
         "key": "nodejs_exiao",
         "name": "🔰贰筱丨网盘",
         "enable": true
@@ -233,6 +243,11 @@ var index_config_default = {
         "enable": true
       },
       {
+        "key": "nodejs_wwe",
+        "name": "🔰摔跤丨影视",
+        "enable": true
+      },
+      {
         "key": "nodejs_shaoerjiaoyu",
         "name": "🔰少儿丨影视",
         "enable": true
@@ -290,6 +305,11 @@ var index_config_default = {
       {
         "key": "nodejs_duboku",
         "name": "🔰独播丨影视",
+        "enable": true
+      },
+      {
+        "key": "nodejs_qiwei",
+        "name": "🔰七味丨影视",
         "enable": true
       },
       {
